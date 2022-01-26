@@ -1,0 +1,22 @@
+{
+  "name": "shopping-basket",
+  "version": "1.0.0",
+  "description": "shopping basket js",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ckarsili/shopping-basket.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ckarsili/shopping-basket/issues"
+  },
+  "homepage": "https://github.com/ckarsili/shopping-basket#readme",
+  "dependencies": {
+    "jest": "^27.4.7"
+  }
+}
